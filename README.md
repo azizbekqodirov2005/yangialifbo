@@ -1,5 +1,9 @@
 # O‘zbek matn o‘giruvchi
 
+🔗 **Jonli demo: [newalifbo.netlify.app](https://newalifbo.netlify.app/)**
+
+![O‘zbek matn o‘giruvchi](./screenshot.png)
+
 Kirill ↔ lotin o‘girish. Hammasi brauzerda ishlaydi: oddiy HTML/CSS/JS, server kerak emas.
 
 ## Ishga tushirish
